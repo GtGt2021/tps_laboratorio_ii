@@ -1,0 +1,12 @@
+C:\Users\Johalis\Desktop\tp1\tp01LaboratorioII\Entidades.cs\bin\Debug\net5.0\Entidades.cs.deps.json
+C:\Users\Johalis\Desktop\tp1\tp01LaboratorioII\Entidades.cs\bin\Debug\net5.0\Entidades.cs.dll
+C:\Users\Johalis\Desktop\tp1\tp01LaboratorioII\Entidades.cs\bin\Debug\net5.0\Entidades.cs.pdb
+C:\Users\Johalis\Desktop\tp1\tp01LaboratorioII\Entidades.cs\obj\Debug\net5.0\Entidades.cs.csproj.AssemblyReference.cache
+C:\Users\Johalis\Desktop\tp1\tp01LaboratorioII\Entidades.cs\obj\Debug\net5.0\Entidades.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johalis\Desktop\tp1\tp01LaboratorioII\Entidades.cs\obj\Debug\net5.0\Entidades.cs.AssemblyInfoInputs.cache
+C:\Users\Johalis\Desktop\tp1\tp01LaboratorioII\Entidades.cs\obj\Debug\net5.0\Entidades.cs.AssemblyInfo.cs
+C:\Users\Johalis\Desktop\tp1\tp01LaboratorioII\Entidades.cs\obj\Debug\net5.0\Entidades.cs.csproj.CoreCompileInputs.cache
+C:\Users\Johalis\Desktop\tp1\tp01LaboratorioII\Entidades.cs\obj\Debug\net5.0\Entidades.cs.dll
+C:\Users\Johalis\Desktop\tp1\tp01LaboratorioII\Entidades.cs\obj\Debug\net5.0\refint\Entidades.cs.dll
+C:\Users\Johalis\Desktop\tp1\tp01LaboratorioII\Entidades.cs\obj\Debug\net5.0\Entidades.cs.pdb
+C:\Users\Johalis\Desktop\tp1\tp01LaboratorioII\Entidades.cs\obj\Debug\net5.0\ref\Entidades.cs.dll

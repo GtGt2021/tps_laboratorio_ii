@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "tp01LaboratorioII/1.0.0": {
+        "dependencies": {
+          "Entidades.cs": "1.0.0"
+        },
+        "runtime": {
+          "tp01LaboratorioII.dll": {}
+        }
+      },
+      "Entidades.cs/1.0.0": {
+        "runtime": {
+          "Entidades.cs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tp01LaboratorioII/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Entidades.cs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
