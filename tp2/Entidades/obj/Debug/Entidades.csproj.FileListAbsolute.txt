@@ -17,3 +17,9 @@ C:\Users\Johalis\Downloads\TP-02\Entidades\obj\Debug\Entidades.csproj.AssemblyRe
 C:\Users\Johalis\Downloads\TP-02\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\Johalis\Downloads\TP-02\Entidades\obj\Debug\Entidades.dll
 C:\Users\Johalis\Downloads\TP-02\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Johalis\Desktop\TP_PROGRAMACION 2\tp2\Entidades\bin\Debug\Entidades.dll
+C:\Users\Johalis\Desktop\TP_PROGRAMACION 2\tp2\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Johalis\Desktop\TP_PROGRAMACION 2\tp2\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Johalis\Desktop\TP_PROGRAMACION 2\tp2\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Johalis\Desktop\TP_PROGRAMACION 2\tp2\Entidades\obj\Debug\Entidades.dll
+C:\Users\Johalis\Desktop\TP_PROGRAMACION 2\tp2\Entidades\obj\Debug\Entidades.pdb

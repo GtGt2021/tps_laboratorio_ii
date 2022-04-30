@@ -32,3 +32,14 @@ C:\Users\Johalis\Downloads\TP-02\TP-02\bin\Debug\Entidades.dll
 C:\Users\Johalis\Downloads\TP-02\TP-02\bin\Debug\Entidades.pdb
 C:\Users\Johalis\Downloads\TP-02\TP-02\obj\Debug\TP-02.csproj.CopyComplete
 C:\Users\Johalis\Downloads\TP-02\TP-02\obj\Debug\TP-02.pdb
+C:\Users\Johalis\Desktop\TP_PROGRAMACION 2\tp2\TP-02\bin\Debug\TP-02.exe.config
+C:\Users\Johalis\Desktop\TP_PROGRAMACION 2\tp2\TP-02\bin\Debug\TP-02.exe
+C:\Users\Johalis\Desktop\TP_PROGRAMACION 2\tp2\TP-02\bin\Debug\TP-02.pdb
+C:\Users\Johalis\Desktop\TP_PROGRAMACION 2\tp2\TP-02\bin\Debug\Entidades.dll
+C:\Users\Johalis\Desktop\TP_PROGRAMACION 2\tp2\TP-02\bin\Debug\Entidades.pdb
+C:\Users\Johalis\Desktop\TP_PROGRAMACION 2\tp2\TP-02\obj\Debug\TP-02.csproj.AssemblyReference.cache
+C:\Users\Johalis\Desktop\TP_PROGRAMACION 2\tp2\TP-02\obj\Debug\TP-02.csproj.SuggestedBindingRedirects.cache
+C:\Users\Johalis\Desktop\TP_PROGRAMACION 2\tp2\TP-02\obj\Debug\TP-02.csproj.CoreCompileInputs.cache
+C:\Users\Johalis\Desktop\TP_PROGRAMACION 2\tp2\TP-02\obj\Debug\TP-02.csproj.CopyComplete
+C:\Users\Johalis\Desktop\TP_PROGRAMACION 2\tp2\TP-02\obj\Debug\TP-02.exe
+C:\Users\Johalis\Desktop\TP_PROGRAMACION 2\tp2\TP-02\obj\Debug\TP-02.pdb

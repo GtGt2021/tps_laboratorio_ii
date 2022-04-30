@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
-    public sealed class Ciclomotor : Vehiculo
+    public class Ciclomotor : Vehiculo
     {
         /// <summary>
         /// Constructor Clase
@@ -26,10 +26,13 @@ namespace Entidades
         {
             get { return (ETamanio.Chico); }
         }
-        
 
 
-        public override string Mostrar()
+        /// <summary>
+        /// sobreescribimos metodo Mostrar llamamos al metodo Base y cargamos los datos adicionales 
+        /// </summary>
+        /// <returns></returns>
+        public sealed override string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
             sb.AppendLine("CICLOMOTOR");

@@ -13,10 +13,12 @@ namespace Entidades
     /// </summary>
     public abstract class Vehiculo
     {
+
         public enum EMarca
         {
             Chevrolet, Ford, Renault, Toyota, BMW, Honda, HarleyDavidson
         }
+
         public enum ETamanio
         {
             Chico, Mediano, Grande
@@ -26,6 +28,13 @@ namespace Entidades
         private string chasis;
         private ConsoleColor color;
 
+
+        /// <summary>
+        /// constructor Vehiculo No instanciable
+        /// </summary>
+        /// <param name="chasis"></param>
+        /// <param name="marca"></param>
+        /// <param name="color"></param>
         public Vehiculo(string chasis, EMarca marca, ConsoleColor color)
         {
             this.marca = marca;
@@ -45,18 +54,16 @@ namespace Entidades
         /// <returns></returns>
         public virtual string Mostrar()
         {
-            //StringBuilder sb = new StringBuilder();
-            //sb.AppendLine($"Chasis: {chasis}");
-            //sb.AppendLine($"Marca: {marca}");
-            //sb.Append($"Color: {color}");
             return (string)this;
         }
 
+        /// <summary>
+        /// sobrecarga string
+        /// </summary>
+        /// <param name="p"></param>
         public static explicit operator string(Vehiculo p)
         {
             StringBuilder sb = new StringBuilder();
-
-            
             sb.AppendLine($"CHASIS: {p.chasis}");
             sb.AppendLine($"MARCA : {p.marca.ToString()}");
             sb.AppendLine($"COLOR : {p.color.ToString()}");
@@ -64,6 +71,8 @@ namespace Entidades
 
             return sb.ToString();
         }
+
+
 
         /// <summary>
         /// Dos vehiculos son iguales si comparten el mismo chasis
@@ -75,6 +84,9 @@ namespace Entidades
         {
             return (v1.chasis == v2.chasis);
         }
+
+
+
         /// <summary>
         /// Dos vehiculos son distintos si su chasis es distinto
         /// </summary>
@@ -86,16 +98,6 @@ namespace Entidades
             return !(v1 == v2);
         }
 
-        //public override bool Equals(object obj)
-        //{
 
-        //    return this.GetType() == typeof(Vehiculo);
-
-        //}
-
-        //public override int GetHashCode()
-        //{
-        //    return 1;
-        //}
     }
 }

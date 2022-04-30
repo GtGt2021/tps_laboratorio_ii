@@ -8,9 +8,6 @@ namespace Entidades
 {
 
 
-    /// <summary>
-    /// No podrá tener clases heredadas.
-    /// </summary>
     public sealed class Taller
     {
         public enum ETipo
@@ -38,17 +35,10 @@ namespace Entidades
         /// <returns></returns>
         public override string ToString()
         {
-            StringBuilder sb = new StringBuilder();
-            sb.AppendLine($"Tenemos {vehiculos.Count} lugares ocupados de un total de {espacioDisponible} disponibles");
-            foreach (Vehiculo item in vehiculos)
-            {
-                sb.AppendLine(item.Mostrar());
-            }
-
-            return sb.ToString();
+            return Taller.Listar(this, ETipo.Todos);
         }
 
-
+        
 
         /// <summary>
         /// Expone los datos del elemento y su lista (incluidas sus herencias)
@@ -57,16 +47,16 @@ namespace Entidades
         /// <param name="taller">Elemento a exponer</param>
         /// <param name="ETipo">Tipos de ítems de la lista a mostrar</param>
         /// <returns></returns>
-        public static string Listar(Taller taller, ETipo tipo)
+        public static string Listar(Taller t, ETipo tipo)
         {
             StringBuilder sb = new StringBuilder();
 
-            sb.AppendFormat($"Tenemos {taller.vehiculos.Count} lugares ocupados de un total de {taller.espacioDisponible} disponibles");
+            sb.AppendFormat($"Tenemos {t.vehiculos.Count} lugares ocupados de un total de {t.espacioDisponible} disponibles");
             sb.AppendLine("");
 
-            foreach (Vehiculo v in taller.vehiculos)
+            foreach (Vehiculo v in t.vehiculos)
             {
-
+                
                 switch (tipo)
                 {
                     case ETipo.SUV:
@@ -107,6 +97,8 @@ namespace Entidades
 
             return taller;
         }
+
+
         /// <summary>
         /// Quitará un elemento de la lista
         /// </summary>
