@@ -1,0 +1,42 @@
+C:\Users\Johalis\Desktop\programacion\Tp01aboratorioII\Tp01aboratorioII\bin\Debug\net5.0-windows\Tp01aboratorioII.exe
+C:\Users\Johalis\Desktop\programacion\Tp01aboratorioII\Tp01aboratorioII\bin\Debug\net5.0-windows\Tp01aboratorioII.deps.json
+C:\Users\Johalis\Desktop\programacion\Tp01aboratorioII\Tp01aboratorioII\bin\Debug\net5.0-windows\Tp01aboratorioII.runtimeconfig.json
+C:\Users\Johalis\Desktop\programacion\Tp01aboratorioII\Tp01aboratorioII\bin\Debug\net5.0-windows\Tp01aboratorioII.runtimeconfig.dev.json
+C:\Users\Johalis\Desktop\programacion\Tp01aboratorioII\Tp01aboratorioII\bin\Debug\net5.0-windows\Tp01aboratorioII.dll
+C:\Users\Johalis\Desktop\programacion\Tp01aboratorioII\Tp01aboratorioII\bin\Debug\net5.0-windows\Tp01aboratorioII.pdb
+C:\Users\Johalis\Desktop\programacion\Tp01aboratorioII\Tp01aboratorioII\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\Johalis\Desktop\programacion\Tp01aboratorioII\Tp01aboratorioII\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\Johalis\Desktop\programacion\Tp01aboratorioII\Tp01aboratorioII\obj\Debug\net5.0-windows\Tp01aboratorioII.csproj.AssemblyReference.cache
+C:\Users\Johalis\Desktop\programacion\Tp01aboratorioII\Tp01aboratorioII\obj\Debug\net5.0-windows\Tp01aboratorioII.FormCalculadora.resources
+C:\Users\Johalis\Desktop\programacion\Tp01aboratorioII\Tp01aboratorioII\obj\Debug\net5.0-windows\Tp01aboratorioII.csproj.GenerateResource.cache
+C:\Users\Johalis\Desktop\programacion\Tp01aboratorioII\Tp01aboratorioII\obj\Debug\net5.0-windows\Tp01aboratorioII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johalis\Desktop\programacion\Tp01aboratorioII\Tp01aboratorioII\obj\Debug\net5.0-windows\Tp01aboratorioII.AssemblyInfoInputs.cache
+C:\Users\Johalis\Desktop\programacion\Tp01aboratorioII\Tp01aboratorioII\obj\Debug\net5.0-windows\Tp01aboratorioII.AssemblyInfo.cs
+C:\Users\Johalis\Desktop\programacion\Tp01aboratorioII\Tp01aboratorioII\obj\Debug\net5.0-windows\Tp01aboratorioII.csproj.CoreCompileInputs.cache
+C:\Users\Johalis\Desktop\programacion\Tp01aboratorioII\Tp01aboratorioII\obj\Debug\net5.0-windows\Tp01aboratorioII.csproj.CopyComplete
+C:\Users\Johalis\Desktop\programacion\Tp01aboratorioII\Tp01aboratorioII\obj\Debug\net5.0-windows\Tp01aboratorioII.dll
+C:\Users\Johalis\Desktop\programacion\Tp01aboratorioII\Tp01aboratorioII\obj\Debug\net5.0-windows\refint\Tp01aboratorioII.dll
+C:\Users\Johalis\Desktop\programacion\Tp01aboratorioII\Tp01aboratorioII\obj\Debug\net5.0-windows\Tp01aboratorioII.pdb
+C:\Users\Johalis\Desktop\programacion\Tp01aboratorioII\Tp01aboratorioII\obj\Debug\net5.0-windows\Tp01aboratorioII.genruntimeconfig.cache
+C:\Users\Johalis\Desktop\programacion\Tp01aboratorioII\Tp01aboratorioII\obj\Debug\net5.0-windows\ref\Tp01aboratorioII.dll
+C:\Users\Johalis\Desktop\TP_PROGRAMACION 2\tp1\Tp1\Tp01aboratorioII\bin\Debug\net5.0-windows\Tp01aboratorioII.exe
+C:\Users\Johalis\Desktop\TP_PROGRAMACION 2\tp1\Tp1\Tp01aboratorioII\bin\Debug\net5.0-windows\Tp01aboratorioII.deps.json
+C:\Users\Johalis\Desktop\TP_PROGRAMACION 2\tp1\Tp1\Tp01aboratorioII\bin\Debug\net5.0-windows\Tp01aboratorioII.runtimeconfig.json
+C:\Users\Johalis\Desktop\TP_PROGRAMACION 2\tp1\Tp1\Tp01aboratorioII\bin\Debug\net5.0-windows\Tp01aboratorioII.runtimeconfig.dev.json
+C:\Users\Johalis\Desktop\TP_PROGRAMACION 2\tp1\Tp1\Tp01aboratorioII\bin\Debug\net5.0-windows\Tp01aboratorioII.dll
+C:\Users\Johalis\Desktop\TP_PROGRAMACION 2\tp1\Tp1\Tp01aboratorioII\bin\Debug\net5.0-windows\Tp01aboratorioII.pdb
+C:\Users\Johalis\Desktop\TP_PROGRAMACION 2\tp1\Tp1\Tp01aboratorioII\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\Johalis\Desktop\TP_PROGRAMACION 2\tp1\Tp1\Tp01aboratorioII\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\Johalis\Desktop\TP_PROGRAMACION 2\tp1\Tp1\Tp01aboratorioII\obj\Debug\net5.0-windows\Tp01aboratorioII.csproj.AssemblyReference.cache
+C:\Users\Johalis\Desktop\TP_PROGRAMACION 2\tp1\Tp1\Tp01aboratorioII\obj\Debug\net5.0-windows\Tp01aboratorioII.FormCalculadora.resources
+C:\Users\Johalis\Desktop\TP_PROGRAMACION 2\tp1\Tp1\Tp01aboratorioII\obj\Debug\net5.0-windows\Tp01aboratorioII.csproj.GenerateResource.cache
+C:\Users\Johalis\Desktop\TP_PROGRAMACION 2\tp1\Tp1\Tp01aboratorioII\obj\Debug\net5.0-windows\Tp01aboratorioII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johalis\Desktop\TP_PROGRAMACION 2\tp1\Tp1\Tp01aboratorioII\obj\Debug\net5.0-windows\Tp01aboratorioII.AssemblyInfoInputs.cache
+C:\Users\Johalis\Desktop\TP_PROGRAMACION 2\tp1\Tp1\Tp01aboratorioII\obj\Debug\net5.0-windows\Tp01aboratorioII.AssemblyInfo.cs
+C:\Users\Johalis\Desktop\TP_PROGRAMACION 2\tp1\Tp1\Tp01aboratorioII\obj\Debug\net5.0-windows\Tp01aboratorioII.csproj.CoreCompileInputs.cache
+C:\Users\Johalis\Desktop\TP_PROGRAMACION 2\tp1\Tp1\Tp01aboratorioII\obj\Debug\net5.0-windows\Tp01aboratorioII.csproj.CopyComplete
+C:\Users\Johalis\Desktop\TP_PROGRAMACION 2\tp1\Tp1\Tp01aboratorioII\obj\Debug\net5.0-windows\Tp01aboratorioII.dll
+C:\Users\Johalis\Desktop\TP_PROGRAMACION 2\tp1\Tp1\Tp01aboratorioII\obj\Debug\net5.0-windows\refint\Tp01aboratorioII.dll
+C:\Users\Johalis\Desktop\TP_PROGRAMACION 2\tp1\Tp1\Tp01aboratorioII\obj\Debug\net5.0-windows\Tp01aboratorioII.pdb
+C:\Users\Johalis\Desktop\TP_PROGRAMACION 2\tp1\Tp1\Tp01aboratorioII\obj\Debug\net5.0-windows\Tp01aboratorioII.genruntimeconfig.cache
+C:\Users\Johalis\Desktop\TP_PROGRAMACION 2\tp1\Tp1\Tp01aboratorioII\obj\Debug\net5.0-windows\ref\Tp01aboratorioII.dll
