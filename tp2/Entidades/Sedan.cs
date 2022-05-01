@@ -65,8 +65,7 @@ namespace Entidades
             sb.AppendLine("SEDAN");
             sb.AppendLine(base.Mostrar());
             sb.Append($"TAMAÑO : {this.Tamanio}");
-            sb.AppendFormat($"TIPO : {this.tipo}\n");
-            sb.AppendLine("");
+            sb.AppendFormat($"TIPO : {this.tipo}\n\n");
             sb.AppendLine("---------------------");
             return sb.ToString();
         }

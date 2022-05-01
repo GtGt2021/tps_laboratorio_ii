@@ -51,9 +51,7 @@ namespace Entidades
         {
             StringBuilder sb = new StringBuilder();
 
-            sb.AppendFormat($"Tenemos {t.vehiculos.Count} lugares ocupados de un total de {t.espacioDisponible} disponibles");
-            sb.AppendLine("");
-
+            sb.AppendFormat($"Tenemos {t.vehiculos.Count} lugares ocupados de un total de {t.espacioDisponible} disponibles\n");
             foreach (Vehiculo v in t.vehiculos)
             {
                 
